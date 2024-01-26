@@ -13,7 +13,9 @@ Recowatch is a web-based application that provides movie recommendations based o
 To run the Recowatch application on your local machine, follow these steps:
 
 1. **Clone the Repository**:
-
+```
+git clone https://github.com/othmanlutfii/recowatch.git
+```
 
 2. **Install Dependencies**:
 
